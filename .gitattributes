@@ -1,0 +1,5 @@
+# Keep repository files out of the plugin zip (git archive)
+.gitignore export-ignore
+.gitattributes export-ignore
+
+* text=auto eol=lf
